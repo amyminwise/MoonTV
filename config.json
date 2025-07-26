@@ -88,6 +88,10 @@
     "18": {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "name": "18"
+    },,
+    "souav": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "搜AV资源"
     },
     "mtzy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
