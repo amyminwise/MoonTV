@@ -89,6 +89,26 @@
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "name": "18"
     },
+    "apidanaizi": {
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "name": "大奶子资源"
+    },
+    "ikunzyapi": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "爱坤"
+    },
+    "apilj": {
+      "api": "https://apilj.com/api.php/provide/vod",
+      "name": "辣椒"
+    },
+    "ffzyapi": {
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡"
+    },
+    "madouse": {
+      "api": "http://madouse.la/api.php/provide/vod",
+      "name": "麻豆"
+    },
     "91md.me": {
       "api": "http://91md.me/api.php/provide/vod/",
       "name": "麻豆视频"
